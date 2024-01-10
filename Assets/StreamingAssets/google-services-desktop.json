@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "448957153289",
+    "project_id": "sofyruby-project",
+    "storage_bucket": "sofyruby-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448957153289:android:3a14ea18015cc80e0cb8d8",
+        "android_client_info": {
+          "package_name": "com.moggozi.sofyruby"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA76aYL2D0eIRzqr667Wf-Y572LorLlLSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

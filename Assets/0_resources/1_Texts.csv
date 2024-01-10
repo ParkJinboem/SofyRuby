@@ -1,0 +1,68 @@
+﻿Key,English,Korean,Japanese,ChineseTraditional,Portuguese,Spanish,Russian
+Language,English,한국어,日本語,繁體中文,Português,Español,Русский
+SkinSelect,Choose your Ruby's skin tone!,루비의 얼굴 톤을 선택해 주세요!,Choose your Ruby's skin tone!,Choose your Ruby's skin tone!,Choose your Ruby's skin tone!,Choose your Ruby's skin tone!,Choose your Ruby's skin tone!
+AdvPop,Get item after watching Ads?,광고를 보고 아이템을 획득하시겠습니까?,広告を見てアイテムを獲得されますか？,想收看廣告獲得道具嗎？,Quer assistir canal de publicidade?,¿Quieres ver publicidades para obtener accesorios?,"Хотите смотреть рекламу, чтобы получить реквизит?"
+ExitPop,"Do you want to leave game?
+Unsaved images will be deleted.","앱을 종료하시겠습니까?
+저장하지 않은 데이터는 모두 사라집니다.","アプリケーションを終了されますか？
+セーブされていない絵はすべて消去されます。",未保存的畫面內容會全部消失，確定要終止應用程序嗎？,"Todo o conteúdo da tela não salvo será desaparecido, tem certeza  encerrar o aplicativo?","El contenido de la pantalla no guardado desaparecerá, ¿está seguro de que desea finalizar la aplicación?","Несохраненное содержимое экрана исчезнет. Вы уверены, что хотите закрыть приложение?"
+Choose your Nara’s skin tone!,"Under construction
+See you after an updated version!","서비스 준비중입니다.
+다음 업데이트에 만나요!","Under construction
+See you after an updated version!","Under construction
+See you after an updated version!","Under construction
+See you after an updated version!","Under construction
+See you after an updated version!","Under construction
+See you after an updated version!"
+AppInfo,VERSION {0},버전 {0},VERSION {0},VERSION {0},VERSION {0},VERSION {0},VERSION {0}
+WatchAdMessage,Ads may appear when saved!,저장 시 광고가 나올 수 있어요!,Ads may appear when saved!,Ads may appear when saved!,Ads may appear when saved!,Ads may appear when saved!,Ads may appear when saved!
+LoadAd,Loading Ads,광고를 불러오는 중입니다.,広告をロード中です。,正在加載廣告,Carregando publicidade,Está cargando publicidades,Загрузка рекламы
+MoveMainPop,"Return to homepage?
+Everything will be discarded if you leave without saving.","초기 화면으로 이동하시겠습니까?
+이동 시 저장하지 않은 데이터는 모두 사라집니다.","Return to homepage?
+Everything will be discarded if you leave without saving.","Return to homepage?
+Everything will be discarded if you leave without saving.","Return to homepage?
+Everything will be discarded if you leave without saving.","Return to homepage?
+Everything will be discarded if you leave without saving.","Return to homepage?
+Everything will be discarded if you leave without saving."
+MoveMakeup,"Return to makeup page?
+Everything will be discarded if you leave without saving.","메이크업 화면으로 이동하시겠습니까?
+이동 시 저장하지 않은 데이터는 모두 사라집니다.","Return to makeup page?
+Everything will be discarded if you leave without saving.","Return to makeup page?
+Everything will be discarded if you leave without saving.","Return to makeup page?
+Everything will be discarded if you leave without saving.","Return to makeup page?
+Everything will be discarded if you leave without saving.","Return to makeup page?
+Everything will be discarded if you leave without saving."
+RequestReviewGooglePlay,"Are you enjoying Ruby's Dress Up Game?
+
+Please rate and get free update on Google Play.","루비 뷰티 놀이를 재미있게 즐기고 있나요?
+
+Google Play에 게임에 대한 의견을 남겨주세요.","Ruby's Dress Up Gameを楽しんでいらっしゃいますか? 
+
+Googleplayでゲームを評価してください。","在享受愉快的時間嗎？
+
+在Google Play評價app後可繼續享受免費升級。","Você está gostando de Ruby's Dress Up Game?
+
+Por favor, classifique-nos e receba gratuitamente a atualização no Google Play.","¿Estás disfrutando Ruby's Dress Up Game?
+
+Califícanos y obtén una actualización gratuita en Google Play.","Вам нравится Ruby's Dress Up Game?
+
+Оцените нас и получите бесплатное обновление в Google Play."
+RequestReviewAppStore,"Are you enjoying Ruby's Dress Up Game?
+
+Please rate and get free update on App Store.","루비 뷰티 놀이를 재미있게 즐기고 있나요?
+
+App Store에 게임에 대한 의견을 남겨주세요.","Ruby's Dress Up Gameを楽しんでいらっしゃいますか?
+
+App Storeでゲームを評価してください。","在享受愉快的時間嗎？
+
+在App Store評價app後可繼續享受免費升級。","Você está gostando de Ruby's Dress Up Game?
+
+Por favor, classifique-nos e receba gratuitamente a atualização na App Store.","¿Estás disfrutando Ruby's Dress Up Game?
+
+Califícanos y obtén una actualización gratuita en la tienda de aplicaciones.","Вам нравится Ruby's Dress Up Game?
+
+Пожалуйста, оцените нас и получите бесплатное обновление в App Store."
+MoreGameMessage,When you Click the OK button go to the app installation screen.,확인 버튼을 누르면 앱 설치 화면으로 이동합니다.,OKボタンをクリックすると、アプリのインストール画面に移動します。,When you Click the OK button go to the app installation screen.,When you Click the OK button go to the app installation screen.,When you Click the OK button go to the app installation screen.,When you Click the OK button go to the app installation screen.
+Delete,When you Click the OK button Image will be deleted.,확인 버튼을 누르면 데이터가 삭제됩니다.,When you Click the OK button Image will be deleted.,When you Click the OK button Image will be deleted.,When you Click the OK button Image will be deleted.,When you Click the OK button Image will be deleted.,When you Click the OK button Image will be deleted.
+Save,When you Click the OK button Image will be changed.,확인 버튼을 누르면 데이터가 교체됩니다.,When you Click the OK button Image will be changed.,When you Click the OK button Image will be changed.,When you Click the OK button Image will be changed.,When you Click the OK button Image will be changed.,When you Click the OK button Image will be changed.
